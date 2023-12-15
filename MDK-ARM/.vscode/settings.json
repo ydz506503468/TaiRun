@@ -1,0 +1,80 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "gcc",
+  "C_Cpp_Runner.cppCompilerPath": "g++",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wcast-align",
+    "-Wconversion",
+    "-Wsign-conversion",
+    "-Wnull-dereference"
+  ],
+  "C_Cpp_Runner.msvcWarnings": [
+    "/W4",
+    "/permissive-",
+    "/w14242",
+    "/w14287",
+    "/w14296",
+    "/w14311",
+    "/w14826",
+    "/w44062",
+    "/w44242",
+    "/w14905",
+    "/w14906",
+    "/w14263",
+    "/w44265",
+    "/w14928"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Inc",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Drivers\\CMSIS\\Include",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Inc\\bsp",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\MDK-ARM",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Drivers\\STM32F4xx_HAL_Driver\\Src",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src\\bsp\\StepMotor",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src\\bsp\\key",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src\\bsp\\GeneralTIM",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src\\bsp\\led",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src\\bsp\\MB-host",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src\\bsp\\RS485",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Src\\bsp\\usart",
+    "c:\\Users\\q234\\Desktop\\代码最新\\YSF4_HAL_MOTOR-204. 四轴57&42步进电机旋转控制实现\\Readme"
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "C_Cpp_Runner.useUndefinedSanitizer": false,
+  "C_Cpp_Runner.useLeakSanitizer": false,
+  "C_Cpp_Runner.showCompilationTime": false,
+  "C_Cpp_Runner.useLinkTimeOptimization": false,
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "files.associations": {
+    "bsp_usartx_rs485.h": "c"
+  }
+}
